@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Software Engineer with 3.5+ years of experience in designing, developing, and modernizing enterprise applications using .NET technologies.
+I'm a Software Engineer with 4+ years of experience in designing, developing, and modernizing enterprise applications using .NET technologies.
 
 Currently, I work on enterprise insurance applications, focusing on backend development, REST APIs, SQL Server, and modern application architecture.
 
